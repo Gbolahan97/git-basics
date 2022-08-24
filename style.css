@@ -1,0 +1,12 @@
+h1 {
+    font-size: 25px;
+    font-family: monospace;
+    color: green;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    font-family: monospace;
+    color: red;
+}
